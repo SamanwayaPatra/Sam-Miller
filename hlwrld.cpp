@@ -20,7 +20,7 @@ char getat(int pos){
 }
 int main(){
 	for(double i=0;i<11;i+=0.5)
-	if((int)i==i)
+	if(!((int)i-i))
 	cout<<getat((int)i);
 	return 0;
 }
