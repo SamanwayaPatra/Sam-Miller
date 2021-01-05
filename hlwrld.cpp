@@ -2,7 +2,7 @@
 using namespace std;
 /*
 	Tell what I am doing if you can you Sam Son Of A Bitch
-	Told you to provide english subtitles in your spanis videos a thousand times
+	Told you to provide english subtitles in your spanish videos a thousand times
 	Why dont you reply?
 */
 char getat(int pos){
